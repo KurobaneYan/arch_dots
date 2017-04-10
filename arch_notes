@@ -1,0 +1,9 @@
+pacman -Rsn [package] = remove package with its dependencies and configs
+pactree -r [package] = view which programs depends on that package
+
+files locations:
+~/.config/i3
+~/.compton.conf
+~/.xinitrc
+/etc/pacman.conf
+/etc/X11/xorgconf.d/20-intel.conf
