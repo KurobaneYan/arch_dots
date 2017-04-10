@@ -7,3 +7,4 @@ files locations:
 ~/.xinitrc
 /etc/pacman.conf
 /etc/X11/xorgconf.d/20-intel.conf
+/boot/loader/entries/arch.conf
